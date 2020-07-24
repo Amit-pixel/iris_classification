@@ -1,2 +1,2 @@
-# iris_classification
+# Iris Classification
 Linear regression model for classifying Irises
