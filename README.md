@@ -1,2 +1,2 @@
 # Iris Classification
-Linear regression model for classifying Irises
+Logistic regression model for classifying Irises
